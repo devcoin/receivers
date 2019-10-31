@@ -3,10 +3,9 @@ _beginpeers
 http://galaxies.mygamesonline.org/receiver.csv
 http://devcoinpool.btc-music.com/receiver/receiver.csv
 http://devcoin.darkgamex.ch/receiver.csv
-http://d.evco.in/receiver/receiver.csv
-http://show-me-the-devcoin.info/devtome/receiver.csv
-http://node1.devcoin.cloud/receiver_files/receiver.csv
-http://jerpat.us/dcr/uploads/receiver.csv
+http://receiver.d.evco.in/receiver.csv
+http://receiver01.devcoin.org/receiver.csv
+http://receiver02.devcoin.org/receiver/receiver.csv
 _endpeers
 _begincoins
 1DKhy7jj8oB53iGZYrWzDSfcVoKHjsuxaa
